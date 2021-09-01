@@ -1,8 +1,8 @@
-# Data and code for blog post about Bayesian regression analysis with rstanarm (not yet published)
+# Data and code for blog post about Bayesian regression analysis with rstanarm
 
 The content here accompanies the following blog post:
 
-(not yet published)
+https://methodmatters.github.io/steps-bayesian-rstanarm/
 
 The data are in the "Data" directory and the code in the "Scripts" directory. 
 
